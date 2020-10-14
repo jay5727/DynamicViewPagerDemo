@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewPagerDemo2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="alert_title">@string/add_page</string>
+    <string name="alert_desc">Are you sure you want to add new Tab?</string>
+    <string name="default_">Default</string>
+    <string name="default_page">Default Page</string>
+    <string name="add_page">Add Page</string>
+    <string name="toolbar_title">Home</string>
+    <string name="please_enter_tab_name">Please Enter Tab Name</string>
+    <string name="existing_tab">Cannot add same Tab again…</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
